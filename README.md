@@ -24,7 +24,7 @@ __AND__
  * 3:30 am Friday in Brisbane
  * 5:30 am Friday in New Zealand
  * 1:30 am Friday in Singapore
- * 11:00 am Friday in India
+ * 11:00 pm Friday in India
 
 
 ## Next meeting agenda
