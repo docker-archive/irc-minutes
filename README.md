@@ -1,4 +1,4 @@
-# irc meeting organisation
+# IRC meeting organisation
 
 ## Meeting times
 
