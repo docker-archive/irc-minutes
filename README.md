@@ -1,8 +1,8 @@
-# IRC meeting organisation
+# IRC Meeting Organization
 
-## Meeting times
+## Meeting Times
 
-Come join us on the [irc://freenode.net/#docker-dev](#docker-dev irc channel on freenode.net):
+Come join us on the [`#docker-dev` IRC channel on freenode.net](irc://chat.freenode.net/#docker-dev):
 
  * 4:30 am Wednesday UTC
  * 2:30 pm Wednesday in Brisbane
@@ -14,7 +14,7 @@ Come join us on the [irc://freenode.net/#docker-dev](#docker-dev irc channel on 
  * 8:30 pm Tuesday in San Francisco
  * 11:30 pm Tuesday in New York
 
-__AND__ 
+__AND__
 
  * 5:30 pm Thursday UTC
  * 10:30 am Thursday in San Francisco
@@ -27,11 +27,8 @@ __AND__
  * 11:00 pm Friday in India
 
 
-## Minutes
+## Minutes / Logs
 
-
-- [17 July 2014 Asia](docker-dev/17Jul2014.md)
-- [17 July 2014 US](docker-dev/US17Jul2014.md)
-
-
-- [23 July 2014 Asia](docker-dev/23Jul2014.md)
+- [17 July 2014, 10:30am PDT (US)](docker-dev/2014-07-17--17-30.md)
+- [18 July 2014, 3:30pm AEST (Asia)](docker-dev/2014-07-18--05-30.md)
+- [24 July 2014, 2:30pm AEST (Asia)](docker-dev/2014-07-23--04-30.md)
