@@ -33,3 +33,4 @@ __AND__
 - [18 July 2014, 3:30pm AEST (Asia)](docker-dev/2014-07-18--05-30.md)
 - [24 July 2014, 2:30pm AEST (Asia)](docker-dev/2014-07-23--04-30.md)
 - [24 July 2014, 10:30am PDT (US)](docker-dev/2014-07-24--17-30.md)
+- [31 July 2014, 2:30pm AEST (Asia)](docker-dev/2014-07-31--04-30.md)
