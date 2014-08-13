@@ -2,6 +2,8 @@
 
 ## Meeting Times
 
+We hold this irc meeting once a month - in the first week of each month (Major release week).
+
 Come join us on the [`#docker-dev` IRC channel on freenode.net](irc://chat.freenode.net/#docker-dev):
 
  * 4:30 am Wednesday UTC
